@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "86986870693",
+    "project_id": "final-push-a12bc",
+    "storage_bucket": "final-push-a12bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86986870693:android:d4d4d2e9be4168fe92624c",
+        "android_client_info": {
+          "package_name": "com.example.waterpipefix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86986870693-bdjmv9vhh8o24cvus6ptavu7c6q0he7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyJpDLf41dVZdx-8MzVzaEXorefQw5O4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86986870693-bdjmv9vhh8o24cvus6ptavu7c6q0he7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
